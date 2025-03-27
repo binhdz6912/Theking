@@ -1,0 +1,6 @@
+config={
+ namescript="binhdz"
+ logoscript="77639830052503"
+ tacgia="binhdz"
+getgenv().Team = "Pirates"
+loadstring(game:HttpGet('https://raw.githubusercontent.com/HoangNguyenk8/Scripts/refs/heads/main/Loader.lua'))()
